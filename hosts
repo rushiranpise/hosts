@@ -2,10 +2,25 @@
 127.0.0.1     www.*.buzz
 127.0.0.1     *.*.buzz
 127.0.0.1     *.buzz
+127.0.0.1     .buzz
+127.0.0.1     amazondelivers.buzz 
+127.0.0.1     bestsurgerydoc.buzz 
+127.0.0.1     budgetburrials.buzz 
+127.0.0.1     cheeperanddeeper.buzz 
+127.0.0.1     discovernature.buzz 
+127.0.0.1     disneyhotstars.buzz 
+127.0.0.1     gambyan.buzz 
+127.0.0.1     monstermusicians.buzz 
+127.0.0.1     primetimevideos.buzz 
+127.0.0.1     rtxoutofstock.buzz 
+127.0.0.1     securitymatters.buzz 
+127.0.0.1     timcards.buzz 
+#[www.*.buzz]
 #[*.*.buzz]
 #[www.*.buzz]
 #[*.buzz]
 0.0.0.0 www.*.buzz
+0.0.0.0 *.*.buzz
 0.0.0.0 *.buzz
 0.0.0.0 .buzz
 
