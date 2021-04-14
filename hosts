@@ -1,4 +1,11 @@
 127.0.0.1     localhost
-127.0.0.1     www.*.buzz/
-127.0.0.1     *.*.buzz/
-127.0.0.1     *.buzz/
+127.0.0.1     www.*.buzz
+127.0.0.1     *.*.buzz
+127.0.0.1     *.buzz
+#[*.*.buzz]
+#[www.*.buzz]
+#[*.buzz]
+0.0.0.0 www.*.buzz
+0.0.0.0 *.buzz
+0.0.0.0 .buzz
+
